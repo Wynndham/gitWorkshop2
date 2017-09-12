@@ -1,0 +1,2 @@
+Open notepad++ and type a couple sentences to the file.  It doesn’t matter what they say but keep it clean!
+Save your new file to the same directory that you have been running git command from (e.g. C:/users/mfryling).  You can save as a text file.
